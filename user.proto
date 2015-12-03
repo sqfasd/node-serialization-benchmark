@@ -1,0 +1,6 @@
+message User {
+  required string name1234567 = 1;
+  required int32 age1234567 = 2;
+  required int32 sex1234567 = 3;
+  required string msg1234567 = 4;
+}
